@@ -22,7 +22,7 @@
       "slug": "SwitchedMux",
       "name": "SwitchedMux",
       "description": "8 to 1 mux with manual selector switch",
-      "tags": ["Switch", "Utility", "Multiplexor"]
+      "tags": ["Switch", "Utility"]
     },
     {
       "slug": "SwitchMatrix",
@@ -31,4 +31,5 @@
       "tags": ["Switch", "Utility"]
     }   
   ]
+
 }
